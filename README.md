@@ -81,4 +81,7 @@ The ESP-32 collects environmental data (from DHT-11 and water level sensor) and 
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This project includes both software and hardware:
+
+- **Software**: Licensed under the MIT License – see [LICENSE](LICENSE)
+- **Hardware**: Licensed under the CERN Open Hardware Licence v2-P – see [HARDWARE-LICENSE](HARDWARE-LICENSE)
