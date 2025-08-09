@@ -1,3 +1,11 @@
+## Authors -
+- Ramiz Shaikh
+- Daksh Meshram
+- Amol Nagaonkar
+- Neha Singh
+
+---
+
 # Advanced Farming using IoT
 
 This project implements an intelligent and sustainable farming solution using Internet of Things (IoT) technology. It combines automated irrigation, ultrasonic pest deterrence, and remote environmental monitoring to optimize agricultural practices, conserve resources, and improve crop yields.
