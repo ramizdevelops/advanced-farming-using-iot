@@ -1,0 +1,12 @@
+# Arduino secrets
+credentials.h
+
+# IDE / build artifacts
+*.hex
+*.elf
+*.bin
+*.log
+.pio/
+build/
+.vscode/
+.idea/
