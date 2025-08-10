@@ -49,4 +49,21 @@ The system turns on the pump when soil moisture falls below **70%** and turns it
 - If wet → pump turns off.
 
 ## Reference
-<>See /hardware/schematics/irrigation_system.png for wiring diagram.
+See `/hardware/schematics/irrigation_system_pin_diagram.png` for Pin diagram.
+
+<p align="center">
+  <img src="../../hardware/schematics/irrigation_system_pin_diagram.png" alt="Irrigation System Pin Diagram" width="400">
+</p>
+
+See `/hardware/schematics/irrigation_system_block_diagram.png` for Block diagram.
+
+<p align="center">
+  <img src="../../hardware/schematics/irrigation_system_block_diagram.png" alt="Irrigation System Block Diagram" width="400">
+</p>
+
+<p align="left">
+  <em>Click here to watch the video</em><br>
+  <a href="https://drive.google.com/file/d/101oT1utbdnvS9miWInwamOtJH0uGrsT2/view?usp=drivesdk">
+    ▶ Watch Video
+  </a>
+</p>

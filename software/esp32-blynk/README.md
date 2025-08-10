@@ -53,4 +53,21 @@ It sends real-time data to the Blynk app and triggers alerts when thresholds are
 - Click Upload.
 
 ## Reference
-See /hardware/schematics/esp32_monitoring.png for wiring diagram.
+See `/hardware/schematics/esp32_pin_diagram.png` for Pin diagram.
+
+<p align="center">
+  <img src="../../hardware/schematics/esp32_pin_diagram.png" alt="ESP32 Pin Diagram" width="350">
+</p>
+
+See `/hardware/schematics/remote_monitering_block_diagram.png` for Block diagram.
+
+<p align="center">
+  <img src="../../hardware/schematics/remote_monitering_block_diagram.png" alt="Remote Monitering Block Diagram" width="500">
+</p>
+
+<p align="left">
+  <em>Click here to watch the video</em><br>
+  <a href="https://drive.google.com/file/d/1cvYZ7AbJYKA6-1GzHG17_ByVBROnZaiw/view?usp=drivesdk">
+    ▶ Watch Video
+  </a>
+</p>

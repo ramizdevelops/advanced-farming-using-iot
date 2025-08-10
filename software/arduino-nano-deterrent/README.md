@@ -50,4 +50,21 @@ The ultrasonic sensor rotates **180°** using the stepper motor. If an object (p
 ---
 
 ## Reference
-See `/hardware/schematics/pest_deterrent.png` for wiring diagram.
+See `/hardware/schematics/deterrent_system_pin_diagram.png` for Pin diagram.
+
+<p align="center">
+  <img src="../../hardware/schematics/deterrent_system_pin_diagram.png" alt="Deterrent System Pin Diagram" width="400">
+</p>
+
+See `/hardware/schematics/deterrent_system_block_diagram.png` for Block diagram.
+
+<p align="center">
+  <img src="../../hardware/schematics/deterrent_system_block_diagram.png" alt="Deterrent System Block Diagram" width="400">
+</p>
+
+<p align="left">
+  <em>Click here to watch the video</em><br>
+  <a href="https://drive.google.com/file/d/1IwzFwjgYLG75SRJyeSNnaHGtjyI8pDrR/view?usp=drivesdk">
+    ▶ Watch Video
+  </a>
+</p>
