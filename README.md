@@ -78,6 +78,19 @@ The ESP-32 collects environmental data (from DHT-11 and water level sensor) and 
 -  **Eco-Friendly**: Eliminated the use of chemical pesticides and reduced water wastage.
 
 ---
+## Project Images
+
+<p align="center">
+  <img src="./hardware/schematics/project_front_view.png" alt="Project Front View" width="400"><br>
+  <em>Front View of Advanced Farming IoT System</em>
+</p>
+
+<p align="center">
+  <img src="./hardware/schematics/project_top_view.png" alt="Project Top View" width="400"><br>
+  <em>Top View of Advanced Farming IoT System</em>
+</p>
+
+---
 
 ## Future Enhancements
 
