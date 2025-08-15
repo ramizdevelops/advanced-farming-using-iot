@@ -63,7 +63,7 @@ See `/hardware/schematics/irrigation_system_block_diagram.png` for Block diagram
 
 <p align="left">
   <em>Click here to watch the video</em><br>
-  <a href="https://drive.google.com/file/d/101oT1utbdnvS9miWInwamOtJH0uGrsT2/view?usp=drivesdk">
+  <a href="https://youtu.be/E6pc1_vB6MQ?si=aZuhbAMiVsgt-rC4">
     ▶ Watch Video
   </a>
 </p>
