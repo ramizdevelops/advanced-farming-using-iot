@@ -67,7 +67,7 @@ See `/hardware/schematics/remote_monitering_block_diagram.png` for Block diagram
 
 <p align="left">
   <em>Click here to watch the video</em><br>
-  <a href="https://drive.google.com/file/d/1cvYZ7AbJYKA6-1GzHG17_ByVBROnZaiw/view?usp=drivesdk">
+  <a href="https://youtube.com/shorts/13XUHJo7ceo?si=2gI7UIIl6x_hyOUY">
     ▶ Watch Video
   </a>
 </p>
