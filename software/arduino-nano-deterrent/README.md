@@ -64,7 +64,7 @@ See `/hardware/schematics/deterrent_system_block_diagram.png` for Block diagram.
 
 <p align="left">
   <em>Click here to watch the video</em><br>
-  <a href="https://drive.google.com/file/d/1IwzFwjgYLG75SRJyeSNnaHGtjyI8pDrR/view?usp=drivesdk">
+  <a href="https://youtu.be/fsNpkMCs-mo?si=y1ROI62KzJmzYFPI">
     ▶ Watch Video
   </a>
 </p>
